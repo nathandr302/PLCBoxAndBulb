@@ -11,3 +11,16 @@ SoftWare
 - https://developer.apple.com/design/human-interface-guidelines/homekit
 - https://developers.home.google.com
 - https://developers.home-assistant.io
+
+
+Notes:
+
+Cloud Access (charge for cloud but not immediate home)
+
+Things to consider:
+- Heat
+- Form Factor
+- Current variance
+- Building Codes
+- safety
+- G3-PLC
